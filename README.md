@@ -56,3 +56,7 @@
 - [更详细的图文说明](https://nbid666.com/blog/tencent-cloud-front-account-guide-2026?utm_source=github&utm_medium=repo&utm_campaign=tencent-cloud-front)
 
 > 免责声明：本仓库为经验整理；账号交易有风险，请遵守腾讯云服务条款，不要用于违规用途。
+
+**相关项目：**
+
+- [ChatGPT Plus 充值指南（官方/菲区/代充风险）](https://github.com/weeklyaggress/chatgpt-plus-recharge-guide)
