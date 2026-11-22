@@ -2,6 +2,19 @@
 
 > 2026-11-23 更新｜最近问「腾讯云前置账号」的人变多了，把概念、价格、验号步骤一次写清楚。
 
+<p align="center"><b>👇 三个按钮，点哪个进哪个</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products/tencent-cloud-account?utm_source=github&utm_medium=repo&utm_campaign=tencent-cloud-front"><img src="assets/btn_tc_buy.png" alt="腾讯云前置账号 ¥50 立即购买" height="64"></a>
+  <br><br>
+  <a href="https://nbid666.com/categories/tencent-cloud?utm_source=github&utm_medium=repo&utm_campaign=tencent-cloud-front"><img src="assets/btn_tc_cat.png" alt="腾讯云账号分类" height="64"></a>
+  <br><br>
+  <a href="https://nbid666.com/blog/tencent-cloud-front-account-guide-2026?utm_source=github&utm_medium=repo&utm_campaign=tencent-cloud-front"><img src="assets/btn_tc_guide.png" alt="查看腾讯云前置账号图文教程" height="64"></a>
+</p>
+
+<p align="center"><b>① 前置账号</b> ¥50 自动发货 ｜ <b>② 分类页</b> 全部腾讯云商品 ｜ <b>③ 图文教程</b> 验号步骤</p>
+
+
 ## 一、腾讯云前置账号是什么
 
 一句话：**已经完成实名认证的腾讯云账号**。
@@ -60,3 +73,10 @@
 **相关项目：**
 
 - [ChatGPT Plus 充值指南（官方/菲区/代充风险）](https://github.com/weeklyaggress/chatgpt-plus-recharge-guide)
+
+<!-- AUTO-REFRESH:START -->
+## 最新动态（2026-11-23）
+
+- 当前价格：腾讯云前置账号 / IX 前置成品号 ¥50，已实名认证，自动发货。
+- 拿到号先做四步：登录 → 看实名 → 试开按量服务器 → 改密码、绑手机、存 MFA。
+<!-- AUTO-REFRESH:END -->
